@@ -1,0 +1,2 @@
+# sntp
+SNTP Server
